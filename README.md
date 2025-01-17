@@ -10,7 +10,6 @@ This application allows users to search for images via a free image API, edit th
 - **Canvas Editor:**
   - Add shapes like Circle, Rectangle, and Triangle.
   - Drag, resize, and reposition elements on the canvas.
-- **Download Modified Images:** Save the edited image to your local system.
 - **Layer Logging:** Maintain an array of all canvas elements for debugging and transparency.
 - **Error Handling:** Proper validation and feedback for user inputs and API interactions.
 
@@ -52,8 +51,7 @@ Open the `index.html` file in your browser to launch the app.
 - Use the tools provided to add text and shapes.
 - Drag and resize elements as needed.
 
-### Download the Edited Image:
-- Click the "Download" button to save the modified image.
+
 
 
 
