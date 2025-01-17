@@ -3,7 +3,7 @@
 # Image Search and Editor Application
 
 ## Overview
-This application allows users to search for images via a free image API, edit them by adding captions and shapes, and download the modified images. The tool uses `fabric.js` for canvas manipulation and provides an intuitive interface for interacting with images.
+This application allows users to search for images via a free image API, edit them by adding captions and shapes, and download the modified images. The Image Search App utilizes the Unsplash API to provide users with a platform to search for images based on various keywords. The app dynamically fetches images from the API and displays them in a responsive grid layout. Users can click on individual images to view more details and visit the original image source on Unsplash.
 
 ## Features
 - **Search Functionality:** Search for images using a free image API (e.g., Unsplash, Pixabay, or Pexels).
