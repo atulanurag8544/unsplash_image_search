@@ -8,7 +8,6 @@ This application allows users to search for images via a free image API, edit th
 ## Features
 - **Search Functionality:** Search for images using a free image API (e.g., Unsplash, Pixabay, or Pexels).
 - **Canvas Editor:**
-  - Add text layers (editable and resizable).
   - Add shapes like Circle, Rectangle, and Triangle.
   - Drag, resize, and reposition elements on the canvas.
 - **Download Modified Images:** Save the edited image to your local system.
@@ -16,17 +15,16 @@ This application allows users to search for images via a free image API, edit th
 - **Error Handling:** Proper validation and feedback for user inputs and API interactions.
 
 ## Technical Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Canvas Manipulation:** Fabric.js
+- **Frontend:** HTML, CSS, JavaScript,React js
+
 - **Image API Integration:** Any free image API (e.g., Pixabay, Pexels)
-- **Deployment Platform:** CodeSandbox, CodePen, or similar.
+- **Deployment Platform:** Netlify,vercel,CodeSandbox, CodePen.
 
 ## Setup Instructions
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/image-editor-app.git
-cd image-editor-app
+git clone https://github.com/atulanurag8544/unsplash_image_search.git
 ```
 
 ### Install Dependencies:
@@ -57,14 +55,7 @@ Open the `index.html` file in your browser to launch the app.
 ### Download the Edited Image:
 - Click the "Download" button to save the modified image.
 
-## File Structure
-```
-image-editor-app/
-├── index.html        # Main HTML file
-├── styles.css        # Styling for the application
-├── script.js         # JavaScript logic
-└── README.md         # Documentation
-```
+
 
 ## Deployment
 The app can be deployed on platforms like CodeSandbox or CodePen for easy sharing and access.
